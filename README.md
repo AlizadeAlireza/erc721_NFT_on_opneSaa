@@ -19,7 +19,7 @@ https://github.com/AlizadeAlireza/erc721_NFT_manual_way#readme
 
 ## on opensae testnet
 
-https://testnets.opensea.io/0x33CB71630fC51B653f54D9DaC3FbA1F3C2Cb7224
+https://testnets.opensea.io/assets/goerli/0xf53163582665c73f8a8193ae5ecc90f4f0c98a7b/0
 
 ### image on IPFS
 
