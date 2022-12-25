@@ -15,16 +15,16 @@ and we can see the picture on the openSea.
 
 nft exoplain in this section.
 
-`https://github.com/AlizadeAlireza/erc721_NFT_manual_way#readme`
+https://github.com/AlizadeAlireza/erc721_NFT_manual_way#readme
 
 ## on opensae testnet
 
-`https://testnets.opensea.io/0x33CB71630fC51B653f54D9DaC3FbA1F3C2Cb7224`
+https://testnets.opensea.io/0x33CB71630fC51B653f54D9DaC3FbA1F3C2Cb7224
 
 ### image on IPFS
 
-`https://ipfs.filebase.io/ipfs/QmTNb2nF6buBPi2hJrwTteczVshwHskSPYMaxwsmKu9Zcn`
+https://ipfs.filebase.io/ipfs/QmTNb2nF6buBPi2hJrwTteczVshwHskSPYMaxwsmKu9Zcn
 
 ### image metadata
 
-`https://ipfs.filebase.io/ipfs/QmfGa88ScEct1jkW7vfYa4gbHvhPXFRoXpwMydLvNtiw4T`
+https://ipfs.filebase.io/ipfs/QmfGa88ScEct1jkW7vfYa4gbHvhPXFRoXpwMydLvNtiw4T
