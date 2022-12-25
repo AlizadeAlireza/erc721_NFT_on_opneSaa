@@ -1,0 +1,20 @@
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "external_url": "https://openseacreatures.io/3",
+  "image": "https://ipfs.filebase.io/ipfs/QmTNb2nF6buBPi2hJrwTteczVshwHskSPYMaxwsmKu9Zcn",
+  "name": "ERC721 JUST DO IT!",
+  "attributes": [
+    {
+      "trait_type": "coolness",
+      "value": "enough"
+    },
+    {
+      "trait_type": "Web3",
+      "value": "cryptoSpace"
+    },
+    {
+      "trait_type": "Token standard",
+      "value": "ERC721"
+    }
+  ]
+}
